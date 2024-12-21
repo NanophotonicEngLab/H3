@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Infos on using variables:
 #   https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml
 #   https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial#example-6-variables
-name                     : &name "Nanophotonic Engineering Laboratory"
-description              : "Nanophotonic Engineering Laboratory at Northumbria University"
+name                     : &name "Super website"
+description              : "My description"
 locale                   : "en-US"
 title                    : *name
 title_separator          : "|"
