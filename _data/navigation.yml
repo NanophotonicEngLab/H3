@@ -1,0 +1,107 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "News"
+    url: /News/
+  - title: "People"
+    url: /People/
+  - title: "Research"
+    url: /Research/
+  - title: "Equipment & Facilities"
+    url: /Facilities/
+  - title: "Publications"
+    url: /Publications/
+  - title: "Resources"
+    url: /Resources/
+  - title: "Opportunities"
+    url: /Opportunities/
+  - title: "Contact"
+    url: /Contact/
+    
+docs:
+  - title: "Nanophotonics"
+    children:
+      - title: "Single-photons on demand"
+        url: /Nanophotonics/Single-photons-on-demand/
+      - title: "3D Nanophotonics in artificially structured materials"
+        url: /Nanophotonics/3D-Nanophotonics/
+      - title: "Optical microcavites and cavity quantum electrodynamics"
+        url: /Nanophotonics/Optical-microcavites-and-cavity-quantum-electrodynamics/
+      - title: "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
+        url: /Nanophotonics/Micro-Nanostructure-Stabilized-Liquid-Crystalline-Blue-Phase/        
+        
+  - title: "Nano/Micro-Structured Materials for Energy Applications"
+    children:
+      - title: "Solar-thermal absorbers"
+        url: /energy-applications/Solar-thermal-absorbers/
+      - title: "3D Architectured Hybrid Materials for Electrodes and Catalysts"
+        url: /energy-applications/3D_Architectured_Hybrid_Materials_for_Electrodes_and_Catalysts/
+        
+  - title: "Nano/Micro-Structured Materials for Mdeical Applications"
+    children:
+      - title: "Multi-Functional Materials for Smart Stents Sensing"
+        url: /medical-applications/Multi-Functional-Materials-for-Smart-Stents-Sensing/
+        
+facilities:
+  - title: "Fourier Image Spectroscopy"
+    url: /Facilities/FIS/
+  - title: "Confocal microscope"
+    url: /Facilities/confocal/
+
+  #- title: Bio-engineering
+    #url: /Bioengineering/
+    #children:
+    #- title: "Biomaterials"
+      #url: /Bio_materials/
+    #- title: "Single-cell"
+      #url: /Single_cell/
+      
+  #- title: Education
+    #url: /docs/configuration/
+    
+  #- title: Energy Materials
+    #children:
+      #- title: "Energy harvesting"
+        #url: /docs/configuration/
+      #- title: "Microbial fuel cells"
+        #url: /docs/navigation/
+      #- title: "Batteries"
+        #url: /docs/navigation/  
+          
+  #- title: Microfluidics
+    #children:
+      #- title: "Liquid manipulation"
+        #url: /docs/configuration/
+      #- title: "Porous media flow"
+        #url: /docs/navigation/
+        
+  #- title: Smart Materials
+    #children:
+      #- title: "Hydrogels"
+        #url: /docs/configuration/
+      #- title: "Shape memory materials"
+        #url: /docs/navigation/  
+      #- title: "Metamaterials"
+        #url: /docs/navigation/  
+      #- title: "Soft materials"
+        #url: /docs/navigation/  
+        
+  #- title: Soft Matter Dynamics
+    #children:
+      #- title: "Phase change"
+        #url: /Phase_change/
+      #- title: "Wetting"
+        #url: /Wetting/
+        
+  #- title: Smart Microsystems
+    #children:
+      #- title: "Electronics"
+        #url: /docs/configuration/
+      #- title: "Sensors"
+        #url: /docs/navigation/  
+      #- title: "Smart Wearables"
+        #url: /docs/navigation/
+        
+  #- title: Facilities/capabilities
+    #url: /Facilities/
